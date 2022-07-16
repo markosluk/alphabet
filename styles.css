@@ -1,0 +1,35 @@
+body {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    text-align: center;
+    background-color: #e3e4e6;
+}
+
+.letter-box {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #03dd32;
+  border-radius: 10px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  margin: 10px Auto 10px Auto;
+  background-color: rgb(97, 92, 83);
+  padding: 20px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+.start-btn, .result{
+  font-size: 1.5rem;
+}
+
+a {
+  font-weight: 700;
+}
+
